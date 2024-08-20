@@ -35,3 +35,58 @@ https://stream1.freetv.fun/da-ai-1.m3u8
 https://stream1.freetv.fun/movie-sphere-1.m3u8
 #EXTINF:-1 tvg-name="電影1臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/img/logo/1_290.jpg" group-title="電影",[BD]电影01
 https://stream1.freetv.fun/dian-ying-01-1.m3u8
+
+
+#EXTINF:-1 tvg-name="E樂" tvg-id="369806" tvg-country="新加坡" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813044823672569_87.png" group-title="綜藝",[BD]cartoonito southeast asia
+https://stream1.freetv.fun/cartoonito-southeast-asia-1.m3u8
+#EXTINF:-1 tvg-name="HBO Family(SG)" tvg-id="368230" tvg-country="新加坡" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813060736625616_98.png" group-title="電影",[BD]hbo family
+https://stream1.freetv.fun/hbo-family-9.ctv
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="新加坡" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="電影",[VGA]hits
+https://stream1.freetv.fun/hits-1.ctv
+
+#EXTINF:-1 tvg-name="NTV7" tvg-id="1029" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115215217931966_31.png" group-title="綜合",[HD]NTV7
+https://stream1.freetv.fun/ntv7-3.ctv
+#EXTINF:-1 tvg-name="NTV7" tvg-id="1029" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115215217931966_31.png" group-title="綜合",[HD]NTV7
+https://stream1.freetv.fun/ntv7-2.ctv
+#EXTINF:-1 tvg-name="NTV7" tvg-id="1029" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115215217931966_31.png" group-title="綜合",[HD]NTV7
+https://stream1.freetv.fun/ntv7-1.ctv
+#EXTINF:-1 tvg-name="ASTRO 華麗" tvg-id="2524" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171542219575_32.png" group-title="綜合",[HD]ASTRO 华丽台
+https://stream1.freetv.fun/astro-hua-li-4.ctv
+#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="電影",[HD]ASTRO AOD 311
+https://stream1.freetv.fun/astro-aod-311-2.ctv
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="綜合",[BD]8tv
+https://stream1.freetv.fun/8tv-3.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="綜合",[HD]8TV MALAYSIA
+https://stream1.freetv.fun/8tv-malaysia-6.ctv
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="綜合",[HD]8TV MALAYSIA
+https://stream1.freetv.fun/8tv-malaysia-10.ctv
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="綜合",[BD]8tv
+https://stream1.freetv.fun/8tv-2.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="馬來西亞" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="綜合",[BD]8tv
+https://stream1.freetv.fun/8tv-1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
