@@ -3,33 +3,10 @@
 https://stream1.freetv.fun/332e58d4889775e85e40eb15fb99213958582128ad269277f3393bb0f2f54039.ctv
 #EXTINF:-1 tvg-name="C+頻道" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="綜藝",[HD]香港c+
 https://stream1.freetv.fun/xiang-gang-c-plus-1.m3u8
-#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-id="368552" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="新聞",[HD]rthk33台
-https://stream1.freetv.fun/rthk33-1.m3u8
 #EXTINF:-1 tvg-name="GOAL TV 1" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/3_403.jpg" group-title="其它",[BD]足球 tv
 https://stream1.freetv.fun/goal-tv-1.m3u8
 #EXTINF:-1 tvg-name="HOY資訊台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",[BD]hoy资讯
 https://stream1.freetv.fun/hoyzi-xun-1.ctv
-#EXTINF:-1 tvg-name="ITV Granada" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/" group-title="其它",[HD]ptv granada
-https://stream1.freetv.fun/ptv-granada-1.m3u8
-
-
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[BD]稻穀movie
-https://stream1.freetv.fun/dao-gu-movie-2.ctv
-
-
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[VGA]horror movie
-https://stream1.freetv.fun/horror-movie-1.ctv
-
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[HD]pixl tv movie channel
-https://stream1.freetv.fun/pixl-tv-movie-channel-1.m3u8
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[SD]horror movie 2
-https://stream1.freetv.fun/horror-movie-2-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[VGA]western movie
-https://stream1.freetv.fun/western-movie-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[BD]稻谷movie
-https://stream1.freetv.fun/dao-gu-movie-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="電影",[BD]sunset movie[geo-blocked]
-https://stream1.freetv.fun/sunset-movie-2.m3u8
 #EXTINF:-1 tvg-name="NOW Sports" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417214551225838_66.png" group-title="運動",[HD]now sports精选
 https://stream1.freetv.fun/now-sportsjing-xuan-2.ctv
 #EXTINF:-1 tvg-name="NOW Sports" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417214551225838_66.png" group-title="運動",[HD]now sports 英超
@@ -42,58 +19,21 @@ https://stream1.freetv.fun/now-xing-ying-1.ctv
 https://stream1.freetv.fun/now-zhi-bo-2.ctv
 #EXTINF:-1 tvg-name="NOW爆谷台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="電影",[HD]now 爆谷
 https://stream1.freetv.fun/now-bao-gu-1.ctv
-
 #EXTINF:-1 tvg-name="Now Jelli紫金國際臺" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171817864673_24.png" group-title="新聞",[HD]now jelli紫金国际
 https://stream1.freetv.fun/now-jellizi-jin-guo-ji-2.ctv
 #EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="綜合",[HD]now tv
 https://stream1.freetv.fun/now-tv-1.m3u8
 #EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="綜合",[BD]axs tv 综合
 https://stream1.freetv.fun/axs-tv-now-4.m3u8
-
-
 #EXTINF:-1 tvg-name="RTHK31" tvg-id="368901" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜藝",[HD]港台电视31台
 https://stream1.freetv.fun/rthk31-1.ctv
 #EXTINF:-1 tvg-name="RTHK34" tvg-id="368553" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png" group-title="新聞",[HD]港台电视34台
 https://stream1.freetv.fun/rthk34-2.m3u8
-
-
-
 #EXTINF:-1 tvg-name="TVB亞洲劇" tvg-id="368335" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影",[HD]tvb亚洲剧
 https://stream1.freetv.fun/tvbya-zhou-ju-1.ctv
-
 #EXTINF:-1 tvg-name="TVB新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="新聞",[HD]tvbs新闻
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 #EXTINF:-1 tvg-name="Viu TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="綜合",[HD]viu tv
 https://stream1.freetv.fun/viu-tv-1.ctv
-
-
-
-#EXTINF:-1 tvg-name="有線財經資訊臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="新聞",[HD]有线财经资讯
-https://stream1.freetv.fun/you-xian-cai-jing-zi-xun-1.m3u8
-#EXTINF:-1 tvg-name="有線財經資訊臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="新聞",[HD]有线财经资讯
-https://stream1.freetv.fun/you-xian-cai-jing-zi-xun-2.m3u8
-#EXTINF:-1 tvg-name="有線財經資訊臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="新聞",[HD]有线财经资讯
-https://stream1.freetv.fun/you-xian-cai-jing-zi-xun-3.m3u8
-#EXTINF:-1 tvg-name="有線財經資訊臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="新聞",[HD]有线财经资讯
-https://stream1.freetv.fun/you-xian-cai-jing-zi-xun-4.m3u8
-#EXTINF:-1 tvg-name="有線財經資訊臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="新聞",[HD]有线财经信息台
-https://stream1.freetv.fun/you-xian-cai-jing-xin-xi-1.m3u8
-
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",[HD]无线新闻
-https://stream1.freetv.fun/wu-xian-xin-wen-3.ctv
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",[HD]无线新闻
 https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
-
-#EXTINF:-1 tvg-name="美亞電影台[HK]" tvg-id="368348" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",[HD]美亚电影
-https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
-#EXTINF:-1 tvg-name="翡翠4K" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/08/01/large/20240801061214542052_55.png" group-title="綜合",[HD]tvb翡翠
-https://stream1.freetv.fun/tvbfei-cui-3.ctv
-
-#EXTINF:-1 tvg-name="耀才財經臺" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806003654467692_44.jpg" group-title="新聞",[HD]耀才财经
-https://stream1.freetv.fun/yao-cai-cai-jing-7.m3u8
-
-#EXTINF:-1 tvg-name="香港有線新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/10/20171010210707310138_36.jpg" group-title="新聞",[HD]香港有线新闻
-https://stream1.freetv.fun/xiang-gang-you-xian-xin-wen-2.ctv
-#EXTINF:-1 tvg-name="香港有線新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/10/20171010210707310138_36.jpg" group-title="新聞",[HD]香港有线新闻
-https://stream1.freetv.fun/xiang-gang-you-xian-xin-wen-1.m3u8
-
