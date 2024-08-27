@@ -17,8 +17,6 @@ https://stream1.freetv.fun/now-xin-wen-2.ctv
 https://stream1.freetv.fun/goal-tv-1.m3u8
 #EXTINF:-1 tvg-name="HOY資訊台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",[BD]hoy资讯
 https://stream1.freetv.fun/hoyzi-xun-1.ctv
-#EXTINF:-1 tvg-name="NOW Sports" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417214551225838_66.png" group-title="運動",[HD]now sports精选
-https://stream1.freetv.fun/now-sportsjing-xuan-2.ctv
 #EXTINF:-1 tvg-name="NOW Sports" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417214551225838_66.png" group-title="運動",[HD]now sports 英超
 https://stream1.freetv.fun/now-sports-ying-chao-1-1.ctv
 #EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",[HD]now 星影
